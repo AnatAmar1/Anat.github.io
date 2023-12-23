@@ -1,113 +1,108 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "name": "Anat Amar",
+    "label": "Software Engineer",
+    "picture": "https://github.com/AnatAmar1.png",
+    "email": "aa91@hawaii.edu",
+    "phone": "619-724-3729",
+    "website": "https://AnatAmar1.github.io",
+    "summary": Passionate Computer Science graduate, driven and fluent in multiple languages bringing a diverse perspective and adaptability to cross-cultural teams, enriching the creative process. Within my previous scope of work, as a Web Developer at The Den, I honed my skills in JavaScript, React.js, HTML, and CSS. Having recently relocated to Austin, I'm eager to contribute my technical expertise toward a growing dynamic company. I am open to exploring a wide range of computer science-related roles to broaden my horizons and make a meaningful impact.
+",
+    "location": { "city": "Austin", "countryCode": "USA", "region": "TX" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "Anat", "url": "http://github.com/AnatAmar1" },
+      { "network": "linkedin", "username": "Anat", "url": "https://www.linkedin.com/in/anat-amar-2a7b1221a/" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Development" },
+    { "name": "Machine Learning" },
+    { "name": "Robotics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp", "React.js", "meteor" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "startDate": "2021-08-20",
+      "endDate": "2023-05-13",
       "courses": [
+        "Database Systems I",
+        "Object-Oriented Programming",
+        "Operating Systems",
+        "Computer Security and Ethics",
+        "Quality Assurance",
+        "Algorithms & Data Structures",
+        "Machine-level & Systems Programming"
       ]
     }
-  ],
+  ]
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "The DEN Ritual",
       "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "website": "https://www.thedenritual.com/",
+      "startDate": "2023-10-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Web Developer at The Den Social Wellness Club (2023)",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Led website development, showcasing a fusion of technical expertise and creative finesse.",
+        "Designed an engaging homepage with captivating video content, enhancing The Den's online presence.",
+        "Implemented secure features, including an investor login and exclusive document access pages, demonstrating a commitment to robust data protection measures.",
+        "Proficient in a diverse tech stack (HTML, CSS, JavaScript, React, Bootstrap, Meteor) for a polished and secure user interface."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Hawai'i Digital Health Lab",
+      "position": "Front-End developer Intern",
+      "website": "https://hawaiidigitalhealthlab.com/",
+      "startDate": "2023-01-20",
+      "endDate": "2023-05-01",
+      "summary": "Front-End Developer at Hawai’i Digital Health Lab (2023)",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+       "Led the design and implementation of the user interface and admin page for an innovative Social-Gaming-Web-Platform, contributing to the evolution of the digital health industry.",
+      "Ensured a flawless user experience through unwavering commitment to quality, conducting extensive testing using TestCafe.",
+      "Utilized JavaScript, HTML, CSS, React.js, and Bootstrap to craft a seamless and engaging platform that redefined the gaming experience."
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+ 
+"volunteer": [
+{
+"organization": "Phi Theta Kappa Honor Society",
+"website": "https://www.ptk.org/",
+"position": "Vice President of Scholarships",
+"summary": "Researched and tracked scholarship opportunities, keeping members informed through meetings, email, and our PTK Canvas site."
+},
+{
+"organization": "Service-learning & Leadership",
+"website": "https://www.scottsdalecc.edu/students/service-learning",
+"position": "Volunteer",
+"summary": "Volunteered for Sole Hope, creating shoe patterns and preparing fabric for shoes to aid patients in Uganda. Developed valuable skills in textile production and pattern-making, fostering a deeper commitment to service."
+}
+]
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
+      "title": "Dean's List",
+      "date": "2022",
+      "awarder": "University of Hawai'i",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
     {
       "title": "First place",
       "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "awarder": "The University of Hawaii",
+      "summary": "Awarded the Dean’s List"
     }
   ],
   "references": [
