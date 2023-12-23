@@ -7,13 +7,6 @@ date: 2023
 published: true
 labels:
  - Web Development
-  - JavaScript
-  - React
-    <br />
-  - HTML
-  - CSS
-  - Bootstrap
-  - Meteor
 summary: " Led the website development for The Den Social Wellness Club in 2023, demonstrating a unique blend of technical expertise and creative finesse.."
 ---
 
@@ -31,5 +24,19 @@ The landing page features an impactful video message from the owner, providing a
 <p>This page acts as a confidential repository, offering a secure space where investors can delve deep into detailed documents that encapsulate the essence, strategies, and financial aspects of The Den Ritual. The commitment to confidentiality is paramount, ensuring that sensitive information is accessible only to authorized individuals.</p>
 <p>Upon entering the Secure Document Access Page, investors are greeted with strategically organized content links. These links provide easy navigation to a wealth of information, covering diverse aspects of The Den's operations, financial performance, growth strategies, and future projections.</p>
 <hr>
-
+<p>
+<h3>Implementation Overview:</h3>
+Homepage Video:
+Integrated captivating video content using JavaScript and React.
+<br />
+Investor Login and Document Access:
+Implemented secure features and exclusive document access pages using React.
+<br />
+Styling and Responsiveness:
+Styled the website and ensured responsiveness using CSS and Bootstrap.
+ <br />
+Real-Time Features:
+Leveraged Meteor for real-time data synchronization, enhancing user interactions.
+This technology stack collectively contributes to the creation of a modern, dynamic, and visually appealing website for The Den Social Wellness Club.
+</p>
 Source: <a href="https://www.thedenritual.com/"><i class="large github icon "></i>The Den Ritual Investor Website</a>
