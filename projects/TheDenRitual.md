@@ -1,21 +1,19 @@
-
 ---
-layout: project  <br />
-type: project <br />
-image: img/landDen1.png <br />
-title: "The Den Social Wellness Club Website" <br />
-date: 2023-10-01 <br />
-published: true <br />
-Labels:
-  - Web Development
+layout: project
+type: project
+image: img/landDen1.png
+title: "The Den Social Wellness Club Website"
+date: 2023
+published: true
+labels:
+ - Web Development
   - JavaScript
   - React
   - HTML
   - CSS
   - Bootstrap
-  - Meteor <br />
-Summary: 
-  Led the website development for The Den Social Wellness Club in 2023, demonstrating a unique blend of technical expertise and creative finesse.
+  - Meteor
+summary: " Led the website development for The Den Social Wellness Club in 2023, demonstrating a unique blend of technical expertise and creative finesse.."
 ---
 
 <p>
