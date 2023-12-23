@@ -9,6 +9,7 @@ labels:
  - Web Development
   - JavaScript
   - React
+    <br />
   - HTML
   - CSS
   - Bootstrap
