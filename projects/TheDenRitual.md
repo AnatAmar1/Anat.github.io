@@ -1,66 +1,29 @@
 
 ---
-layout: project
-type: project
-image: [your_project_image_url_here]
-title: "The Den Social Wellness Club Website"
-date: 2023
-published: true
-labels:
+layout: project  <br />
+type: project <br />
+image: img/landDen1.png <br />
+title: "The Den Social Wellness Club Website" <br />
+date: 2023-10-01 <br />
+published: true <br />
+Labels:
   - Web Development
   - JavaScript
   - React
   - HTML
   - CSS
   - Bootstrap
-  - Meteor
-summary: "Led the website development for The Den Social Wellness Club in 2023, demonstrating a unique blend of technical expertise and creative finesse."
+  - Meteor <br />
+Summary: 
+  Led the website development for The Den Social Wellness Club in 2023, demonstrating a unique blend of technical expertise and creative finesse.
 ---
 
-
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
-
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
-
-To give you a flavor of the game, here is an excerpt from one run:
-
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
+<p>
+The landing page for The Den Social Wellness Club is meticulously designed with a specific focus on investors, providing them with a comprehensive overview of the founder, vision, and unique offerings of The Den Ritual.
+</p>
+<img class="img-fluid" src="../img/landDen1.png">
+<p>Personalized Introduction from the Owner:
+The landing page features an impactful video message from the owner, providing a personal touch to the investor experience. This video serves as a direct communication channel, allowing the owner to express the club's values, mission, and unique offerings, creating a compelling narrative for potential investors.</p>
 <hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
