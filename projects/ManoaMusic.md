@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/pageLanding.png
+image: images/landngpageM11.png
 title: Manoa Music Project
 
 # All dates must be YYYY-MM-DD format!
@@ -18,7 +18,7 @@ In the realm of Software Engineering, practical application of principles is par
 Technological Stack: Meteor, React, and Semantic UI
 
 Leveraging the robust Meteor framework alongside React for dynamic user interfaces and Semantic UI for seamless design, I orchestrated the creation of a feature-rich social network that seamlessly integrates into the musical landscape of UH Manoa.
-
+<img class="img-fluid" src="../img/LandingM3.png">
 Key Contributions: Crafting the User Experience
 
 My primary responsibilities encompassed the design and implementation of pivotal features, including:
@@ -26,7 +26,7 @@ My primary responsibilities encompassed the design and implementation of pivotal
 Landing and Profile Pages: I crafted an inviting landing page that serves as the user's gateway to the UH Manoa musical community. The profile pages were meticulously designed to showcase the uniqueness of each musician.
 
 Jam Session Page: Contributing to the creation and curation of the jam session page, I ensured a user-friendly experience for musicians looking to collaborate and share their musical prowess.
-
+<img class="img-fluid" src="../img/ListJamSessions.png">
 Backend Magic: The backend functionality, seamlessly integrated into the landing page, offers users three compelling options: creating a profile, joining a jam session, and browsing other users' profiles. This intricate backend logic enhances user engagement and facilitates seamless navigation.
 
 Intuitive Navigation: A user-friendly navigation system empowers users to switch effortlessly between the music page and the landing page. The UH Manoa music tab strategically placed in the upper left corner provides a convenient way to return to the landing page.
@@ -38,7 +38,7 @@ The landing page serves as the inaugural point of interaction, presenting four d
 Next Steps: Elevating the Musical Experience
 
 As the project evolves, future enhancements may include refining the user interface, introducing personalized recommendations, and expanding the collaborative capabilities of the jam session feature. This continuous evolution aligns with the dynamic nature of musical expression and community building.
-![Landing](/images/LandingP1.png)
+<img class="img-fluid" src="../img/ProfilePageList.png">
 
 Clarity of Purpose: Elevating User Experience
 
@@ -57,7 +57,7 @@ A Glimpse into Post-Sign-Up Navigation:
 Create Profile: Empowering users to showcase their musical identity by crafting personalized profiles.
 
 Jam Session: Facilitating collaboration and creativity through a dedicated space for engaging in musical jam sessions.
-
+<img class="img-fluid" src="../img/CreateJamSession.png">
 Browse Profiles: Enabling users to explore the rich tapestry of the UH Manoa musical community by perusing the profiles of fellow musicians.
 
 Clear Pathways for Musical Exploration
@@ -70,7 +70,7 @@ As the website evolves, continuous attention will be directed toward refining an
 
 In essence, the landing page serves as a welcoming gateway, offering a glimpse into the musical possibilities that await users within the interconnected realm of the UH Manoa Musicians Social Network.
 
-![Landing2](/images/landingp2.png)
+
 
 Enhancing User Profiles: Crafting the "Create Profile" Experience
 
@@ -93,7 +93,7 @@ Continual Refinement for Optimal User Experience:
 As part of an ongoing commitment to user-centric design, the "Create Profile" and "List Profile" functionalities will evolve to meet the ever-changing needs of the UH Manoa Musicians Social Network. This iterative approach ensures that the platform remains a vibrant and inclusive space for musical exploration and collaboration.
 
 In essence, the "Create Profile" page acts as a conduit for users to narrate their musical stories, while the "List Profile" page unfolds as a dynamic directory, weaving together the diverse talents within the UH Manoa musical community.
-![CreateProfile](/images/profilep3.png)
+
 
 
 Certainly! Here's a refined version of your statement:
