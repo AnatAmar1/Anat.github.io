@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/LandingPage1.jpeg
+image: img/digital1.png
 title: "Hawai'i Digital Health Lab"
 date: 2023
 published: true
