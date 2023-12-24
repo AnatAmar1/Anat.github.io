@@ -77,7 +77,7 @@ Maintained a consistent design language and visual cues across all pages using J
 <br />
 <h4>Summary:</h4>
 In summary, the implementation of the Sign-In and Sign-Up pages involved a stack comprising JavaScript, HTML, CSS, React.js, and Bootstrap, creating a secure, engaging, and accessible environment for parents and guardians exploring therapeutic games for children with developmental delays.
-</p>
+
 
 
 
