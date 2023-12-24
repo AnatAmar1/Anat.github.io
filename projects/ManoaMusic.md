@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/landngpageM11.png
+image: img/landingpageM11.png
 title: Manoa Music Project
 
 # All dates must be YYYY-MM-DD format!
@@ -38,7 +38,7 @@ The landing page serves as the inaugural point of interaction, presenting four d
 Next Steps: Elevating the Musical Experience
 
 As the project evolves, future enhancements may include refining the user interface, introducing personalized recommendations, and expanding the collaborative capabilities of the jam session feature. This continuous evolution aligns with the dynamic nature of musical expression and community building.
-<img class="img-fluid" src="../img/ProfilePageList.png">
+<img class="img-fluid" src="../img/profilePageList.png">
 
 Clarity of Purpose: Elevating User Experience
 
