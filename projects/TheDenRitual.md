@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landDen1.png
+image: img/landDen11.png
 title: "The Den Social Wellness Club Website"
 date: 2023
 published: true
