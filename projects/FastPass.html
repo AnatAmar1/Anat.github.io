@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="title" content="FastPass Password Manager Application | Anat Amar | Professional Portfolio">
+    <meta name="description" content="">
+    <meta name="image" content="https://github.com/AnatAmar1.png">
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="Anat Amar | Professional Portfolio">
+    <meta property="og:url" content="https://AnatAmar1.github.io/projects/FastPass.html">
+    <meta property="og:title" content="FastPass Password Manager Application | Anat Amar | Professional Portfolio">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="https://github.com/AnatAmar1.png">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+    <link rel="stylesheet" href="/css/techfolio-theme/default.css">
+    <link rel="stylesheet" type="text/css" href="/css/rouge/github.css">
+    <!-- Load MathJax if 'mathjax: true' is found in your _config.yml. -->
+    
+    <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML">
+    </script>
+    
+
+    <title>FastPass Password Manager Application | Anat Amar | Professional Portfolio</title>
+  </head>
+  <body>
+  <header class="navbar navbar-expand navbar-light bg-light bg-gradient border-bottom">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">Anat Amar</a>
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <a class="nav-link" href="/#projects">Projects</a>
+        <a class="nav-link" href="/#essays">Essays</a>
+        <a class="nav-link" href="/resume.html">Resume</a>
+      </ul>
+    </div>
+  </div>
+</header>
+
+<div class="container py-4">
+  <h1 class="display-4">FastPass Password Manager Application</h1>
+ <p>
+The main feature of Fast Pass is its ability to store user passwords. Users can create accounts on our FastPass website and add multiple password entries. These entries, in addition to the passwords themselves, include other details such as site name, address, username, extra notes, and category type (social, retail, entertainment, and miscellaneous). This information is displayed on a user’s dashboard. The list of passwords can be further sorted by category. The total number of passwords overall and the number of passwords in each category are also displayed.
+	To assist users with password creation, we developed a password generator that allows users to specify multiple conditions such as password length, special characters, and uppercase to create their ideal password.
+	Users may also edit their password entries and modify any details where necessary. They may use our hyperlink display in the dashboard password list to simply click on the name of their password’s site and visit the link in their browser. Before this, users can press a button to copy the password to the clipboard. In addition, FastPass also allows users to export their password list into a .csv to facilitate offline storage. 
+For security purposes, users may optionally enable multi-factor authentication. This additional layer of logging in can be activated for an account in the form of two-factor authentication by scanning a generated QR code from the “2FA settings” page into the “Google Authenticator” mobile app and inputting the subsequent one-time six-digit code. Afterward, any future log-ins will require inputting the one-time code generated from the app alongside the correct email and password. Users will also have the ability to disable 2FA should they so choose in the future. Furthermore, users will be automatically logged out of their session after 30 minutes of inactivity.
+</p>
+<p><img class="img-fluid" src="../img/dashboard.png" /></p>
+<p>Achieved a secure approach to storing and managing password items in the NoSQL database, ensuring confidentiality by concealing passwords in the terminal as "undefined" during website runtime and abstaining from explicit presentation within the dashboard. Additionally, successfully addressed indirect object reference vulnerabilities, safeguarding against unauthorized access to password items via the "Edit Login" form. The team prioritized the protection of sensitive password information, recognizing its inherent value.
+Furthermore, successfully implemented a feature enabling users to export passwords as a .csv file, aligning with our initial vision of providing offline access to password data.</p>
+<p><img class="img-fluid" src="../img/LoginFast.png" />
+<img class="img-fluid" src="../img/SettingFast.png" /></p>
+<p>Successfully integrated two-factor authentication (2FA) into our application using Meteor's "accounts 2-fa" package. The implementation presented a challenge due to the recent introduction of the package with Meteor 2.7, resulting in limited documentation for its functions and methods. Despite this hurdle, we managed to empower users with the option to activate 2FA for their accounts, enhancing the overall security posture of our applicatio</p>
+<p><img class="img-fluid" src="../img/editLoginFast.png" />
+<img class="img-fluid" src="../img/generate-password.png" /></p>
+<p>Implemented a robust password generator within our password manager application, offering customizable character length and the option to include or exclude lowercase letters, uppercase letters, numbers, and symbols. Although we couldn't integrate it in this version, a planned enhancement is the ability to conveniently copy the generated password to the clipboard, streamlining user accessibility and convenience.</p>
+<hr />
+
+<p>
+<h3>Development Stack Overview:</h3>
+
+Version Control:
+
+GitHub / GitHub Desktop
+Integrated Development Environments (IDEs):
+
+IntelliJ IDEA
+Visual Studio Code
+Languages:
+
+HTML/CSS
+JavaScript (React.js, Node.js, Meteor)
+Packages:
+
+Semantic UI
+Web Browsers:
+
+Chromium (Google Chrome and Brave)
+Database:
+
+NoSQL Database: MongoDB
+Testing Tools:
+
+TestCafe
+Code Quality:
+
+ESLint
+
+</p>
+
+</div>
+
+<footer class="navbar navbar-expand navbar-light bg-light bg-gradient border-top">
+  <div class="container-fluid">
+    <div class="ms-auto">
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <small><a class="nav-link" href="https://techfolios.github.io">Made with Techfolios</a></small>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2" crossorigin="anonymous"></script>
+  </body>
+</html>
