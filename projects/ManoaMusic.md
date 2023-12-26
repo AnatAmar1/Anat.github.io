@@ -38,7 +38,7 @@ The landing page serves as the inaugural point of interaction, presenting four d
 Next Steps: Elevating the Musical Experience
 
 As the project evolves, future enhancements may include refining the user interface, introducing personalized recommendations, and expanding the collaborative capabilities of the jam session feature. This continuous evolution aligns with the dynamic nature of musical expression and community building.
-<img class="img-fluid" src="../img/profilePageList.png">
+<img class="img-fluid" src="../img/createS (1).png">
 
 Clarity of Purpose: Elevating User Experience
 
@@ -49,12 +49,12 @@ Strategic Design for Immediate Recognition
 The focal point of my efforts was the development of a landing page that serves as an intuitive introduction to the website's offerings. The strategic placement of elements aimed to provide new users with an immediate understanding of the platform's intentions.
 
 User-Friendly Navigation Post Sign-Up
-
+<img class="img-fluid" src="../img/createpro.png">
 Upon successfully signing up, users are presented with three prominent links, each serving a distinct purpose. These links are meticulously designed to guide users seamlessly through the website, ensuring an effortless transition to key pages.
 
 A Glimpse into Post-Sign-Up Navigation:
 
-Create Profile: Empowering users to showcase their musical identity by crafting personalized profiles.
+Create Profile: Empower users to showcase their musical identity by crafting personalized profiles.
 
 Jam Session: Facilitating collaboration and creativity through a dedicated space for engaging in musical jam sessions.
 <img class="img-fluid" src="../img/CreateJamSession.png">
