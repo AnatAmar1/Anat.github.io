@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/landDen11.png
+image: img/fast.png
 title: "FastPass Password Manager Application"
 date: 2021
 published: true
